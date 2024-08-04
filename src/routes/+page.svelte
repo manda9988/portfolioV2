@@ -10,16 +10,14 @@
 		<h2>Développeur Front-End | Svelte / React</h2>
 	</div>
 
-	<!-- Bar Effect -->
-	<article class="bar-effect">
-		<div class="bar bg-blue-950"></div>
-		<div class="bar bg-blue-800"></div>
-		<div class="bar bg-blue-950"></div>
-	</article>
+	<div class="bar-one"></div>
 
 	<section class="about">
 		<h3>
-			<img src="/about.png" alt="Icon" class="icon" /> About
+			<span class="icon-wrapper">
+				<img src="/about.png" alt="Icon" class="icon" />
+			</span>
+			<span class="text">About</span>
 		</h3>
 		<div class="paragraphe">
 			<p>
@@ -27,8 +25,9 @@
 				consacre au développement web depuis trois ans.
 			</p>
 			<p>
-				J'ai acquis de solides compétences en pratiquant diverses technologies telles que :
-				JavaScript, SCSS, Svelte, React, Node.js, Express et PostgreSQL.
+				J'ai acquis de solides compétences en pratiquant diverses technologies telles que : <span
+					class="highlight">JavaScript, SCSS, Svelte, React, Node.js, Express et PostgreSQL</span
+				>.
 			</p>
 			<p>
 				Mon parcours professionnel m'a apporté des aptitudes essentielles en communication et en
@@ -40,6 +39,7 @@
 			</p>
 		</div>
 	</section>
+	<div class="bar-two"></div>
 
 	<!-- <Projects /> -->
 </div>

@@ -1,51 +1,63 @@
 /* src/styles/page.scss */
 .container {
-	// background: rgb(160, 23, 23);
 	max-width: 800px;
 	width: 90%;
-	margin: 0 auto;
+	margin: 26px auto 0;
 	.title {
-		// background: rgb(52, 125, 52);
-		margin-top: 16px;
 		text-align: center;
 		h1 {
 			font-size: 1.8rem;
 			font-weight: 500;
-			// line-height: 1;
+			color: rgb(212, 212, 212);
 		}
 		h2 {
 			font-size: 1rem;
 			font-weight: 480;
-			color: rgb(184, 184, 184);
 		}
 	}
-	.bar-effect {
-		display: flex;
-		width: 85%;
-		height: 0.75px;
-		margin: 26px auto;
-		.bar {
-			&.bg-blue-950 {
-				background: #1e3a8a;
-				width: 40%;
-			}
-			&.bg-blue-800 {
-				background: #1d4ed8;
-				width: 100%;
-			}
-		}
+	.bar-one {
+		width: 95%;
+		height: 0.6px;
+		margin: 34px auto;
+		background: #386dff;
 	}
 
 	.about {
-		margin-top: 50px;
+		margin: 50px auto 0;
+		width: 85%;
+		max-width: 650px;
 		h3 {
-			margin-bottom: 30px;
+			margin-bottom: 20px;
 			display: flex;
 			align-items: center;
+			color: rgb(222, 222, 222);
+			.icon-wrapper {
+				display: flex;
+				margin-right: 6px;
+			}
 			.icon {
-				margin-right: 8px;
-				height: 24px;
+				height: 28px;
+			}
+			.text {
+				font-size: 1.5rem;
+				font-weight: 400;
 			}
 		}
+		.paragraphe {
+			text-align: justify;
+            font-weight: 300;
+			p {
+				margin-bottom: 10px;
+			}
+			.highlight {
+				color: rgb(255, 255, 255);
+			}
+		}
+	}
+	.bar-two {
+		width: 85%;
+		height: 0.1px;
+		margin: 34px auto;
+		background: #262626;
 	}
 }
