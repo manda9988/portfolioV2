@@ -16,7 +16,7 @@
 		</p>
 		<p>
 			J'ai acquis de solides compétences en pratiquant diverses technologies telles que :
-			<span class="highlight">JavaScript, SCSS, Svelte, React, Node.js, Express et PostgreSQL</span
+			<span class="highlight">JavaScript, Svelte, React, SCSS, Node.js, Express et PostgreSQL</span
 			>.
 		</p>
 		<p>

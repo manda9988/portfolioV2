@@ -1,6 +1,6 @@
-// work.scss
+// education.scss
 
-.work {
+.education {
 	margin: 50px auto 0;
 	width: 85%;
 	max-width: 650px;
@@ -26,13 +26,14 @@
 		}
 	}
 
-	.job {
+	.course {
 		display: flex;
 		margin-bottom: 30px;
 
 		.left-column {
 			width: 20%;
 			color: rgb(222, 222, 222);
+
 			.date {
 				margin-top: 8px;
 			}
@@ -42,11 +43,10 @@
 			width: 80%;
 
 			h4 {
-				margin-bottom: 10px;
+				margin-bottom: 5px;
 				font-size: 1.5rem;
 				font-weight: 500;
 				color: rgb(255, 255, 255);
-                // line-height: 1.3;
 			}
 
 			p {
@@ -56,13 +56,7 @@
 			.location {
 				color: rgb(150, 150, 150);
 				font-weight: 100;
-				font-size: 1.1rem;
-			}
-
-			.description {
-				color: rgb(232, 232, 232);
-				font-size: 0.8rem;
-				font-weight: 500;
+				font-size: 1rem;
 			}
 		}
 	}

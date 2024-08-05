@@ -1,3 +1,5 @@
+<!-- Work.svelte -->
+
 <script>
 	import '../styles/work.scss';
 </script>
