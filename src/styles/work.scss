@@ -1,0 +1,66 @@
+.work {
+	margin: 50px auto 0;
+	width: 85%;
+	max-width: 650px;
+
+	h3 {
+		margin-bottom: 50px;
+		display: flex;
+		align-items: center;
+		color: rgb(233, 233, 233);
+
+		.icon-wrapper {
+			display: flex;
+			margin-right: 10px;
+		}
+
+		.icon {
+			height: 28px;
+		}
+
+		.text {
+			font-size: 1.5rem;
+			font-weight: 400;
+		}
+	}
+
+	.job {
+		display: flex;
+		margin-bottom: 30px;
+
+		.left-column {
+			width: 20%;
+			color: rgb(222, 222, 222);
+			.date {
+				margin-top: 8px;
+			}
+		}
+
+		.right-column {
+			width: 80%;
+
+			h4 {
+				margin-bottom: 10px;
+				font-size: 1.55rem;
+				font-weight: 500;
+				color: rgb(255, 255, 255);
+			}
+
+			p {
+				margin-bottom: 5px;
+			}
+
+			.location {
+				color: rgb(150, 150, 150);
+				font-weight: 100;
+				font-size: 1.1rem;
+			}
+
+			.description {
+				color: rgb(232, 232, 232);
+				font-size: 0.8rem;
+				font-weight: 500;
+			}
+		}
+	}
+}

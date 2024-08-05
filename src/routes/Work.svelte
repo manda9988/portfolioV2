@@ -11,31 +11,31 @@
 	</h3>
 	<div class="job">
 		<div class="left-column">
-			<p>2022 - 2023</p>
+			<p class="date">2022-23</p>
 		</div>
 		<div class="right-column">
 			<h4>Stage Développeur Web React / Svelte</h4>
-			<p class="location">Paris</p>
+			<p class="location">Paris - Tremplin Numérique</p>
 			<p class="description">SCSS, Svelte, React, JavaScript</p>
 		</div>
 	</div>
 	<div class="job">
 		<div class="left-column">
-			<p>2020 - 2022</p>
+			<p class="date">2020-22</p>
 		</div>
 		<div class="right-column">
 			<h4>Technicien d’Assistance Informatique</h4>
-			<p class="location">Rantigny</p>
+			<p class="location">Rantigny - Médiathèque C.Claudel</p>
 			<p class="description">Réseau, Hardware, Communication technique</p>
 		</div>
 	</div>
 	<div class="job">
 		<div class="left-column">
-			<p>2012 - 2020</p>
+			<p class="date">2012-20</p>
 		</div>
 		<div class="right-column">
 			<h4>Monteur Vidéo</h4>
-			<p class="location">Cauffry</p>
+			<p class="location">Cauffry - Association ACC</p>
 			<p class="description">Final Cut Pro, Étalonnage, Post-production audio</p>
 		</div>
 	</div>

@@ -31,8 +31,13 @@
 		margin-bottom: 30px;
 
 		.left-column {
+			// background: rgb(75, 0, 0);
+
 			width: 20%;
 			color: rgb(222, 222, 222);
+			.date {
+				margin-top: 8px;
+			}
 		}
 
 		.right-column {
@@ -44,14 +49,14 @@
 				font-size: 1.6rem;
 				font-weight: 500;
 				color: rgb(255, 255, 255);
-				line-height: 0.8;
 			}
 
 			p {
-				margin-bottom: 6px;
+				margin-bottom: 4px;
 			}
 			.description {
 				font-weight: 100;
+				// font-size: 1.1rem;
 			}
 
 			.technos {

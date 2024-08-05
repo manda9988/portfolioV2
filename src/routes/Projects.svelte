@@ -11,7 +11,7 @@
 	</h3>
 	<div class="project">
 		<div class="left-column">
-			<p>2024</p>
+			<p class="date">2024</p>
 		</div>
 		<div class="right-column">
 			<h4>Blog_</h4>
@@ -21,7 +21,7 @@
 	</div>
 	<div class="project">
 		<div class="left-column">
-			<p>2023</p>
+			<p class="date">2023</p>
 		</div>
 		<div class="right-column">
 			<h4>Ams-Architects</h4>
