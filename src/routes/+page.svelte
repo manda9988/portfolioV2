@@ -5,6 +5,7 @@
 	import Projects from './Projects.svelte';
 	import Work from './Work.svelte';
 	import Education from './Education.svelte';
+	import Skills from './Skills.svelte';
 </script>
 
 <div class="container">
@@ -28,6 +29,10 @@
 	<div class="bar-two"></div>
 
 	<Education />
+
+	<div class="bar-two"></div>
+
+	<Skills />
 
 	<div class="bar-two"></div>
 </div>
