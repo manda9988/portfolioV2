@@ -1,8 +1,9 @@
 <script>
 	import '../styles/global.scss';
 	import '../styles/page.scss';
-	import Projects from './Projects.svelte';
 	import About from './About.svelte';
+	import Projects from './Projects.svelte';
+	import Work from './Work.svelte';
 </script>
 
 <div class="container">
@@ -18,6 +19,10 @@
 	<div class="bar-two"></div>
 
 	<Projects />
+
+	<div class="bar-two"></div>
+
+	<Work />
 
 	<div class="bar-two"></div>
 </div>
