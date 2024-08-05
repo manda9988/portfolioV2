@@ -18,4 +18,6 @@
 	<div class="bar-two"></div>
 
 	<Projects />
+
+	<div class="bar-two"></div>
 </div>
