@@ -17,5 +17,5 @@
 
 	<div class="bar-two"></div>
 
-	<!-- <Projects /> -->
+	<Projects />
 </div>
