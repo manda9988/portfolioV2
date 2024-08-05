@@ -17,47 +17,15 @@
 	}
 	.bar-one {
 		width: 95%;
-		height: 0.6px;
+		height: 0.1px;
 		margin: 34px auto;
-		background: #386dff;
+		background: #386dffb7;
 	}
 
-	.about {
-		margin: 50px auto 0;
-		width: 85%;
-		max-width: 650px;
-		h3 {
-			margin-bottom: 20px;
-			display: flex;
-			align-items: center;
-			color: rgb(222, 222, 222);
-			.icon-wrapper {
-				display: flex;
-				margin-right: 6px;
-			}
-			.icon {
-				height: 28px;
-			}
-			.text {
-				font-size: 1.5rem;
-				font-weight: 400;
-			}
-		}
-		.paragraphe {
-			text-align: justify;
-            font-weight: 300;
-			p {
-				margin-bottom: 10px;
-			}
-			.highlight {
-				color: rgb(255, 255, 255);
-			}
-		}
-	}
 	.bar-two {
 		width: 85%;
 		height: 0.1px;
 		margin: 34px auto;
-		background: #262626;
+		background: #515151ab;
 	}
 }
