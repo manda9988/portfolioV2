@@ -15,7 +15,7 @@
 		</div>
 		<div class="right-column">
 			<h4>Blog_</h4>
-			<p class="description">Une application pour la création d'articles généralistes.</p>
+			<p class="description">Une application pour la création d'articles généralistes avec options de connexion et gestion des articles.</p>
 			<p class="technos">Svelte, Vite, SCSS, PostgreSQL, Node.js, Express</p>
 		</div>
 	</div>
@@ -25,7 +25,7 @@
 		</div>
 		<div class="right-column">
 			<h4>Ams-Architects</h4>
-			<p class="description">Un site présentant les travaux d'une agence d'architecture.</p>
+			<p class="description">Un site présentant les divers travaux d'une agence d'architecture.</p>
 			<p class="technos">Svelte, Vite, SCSS, TypeScript, Node.js, Express</p>
 		</div>
 	</div>
