@@ -18,16 +18,30 @@
 		</div>
 
 		<div class="contact-item">
-			<a href="https://github.com/vincentachy" target="_blank" rel="noopener noreferrer">Github</a>
-		</div>
-		<div class="contact-item">
-			<a href="https://linkedin.com/in/vincentachy" target="_blank" rel="noopener noreferrer"
-				>LinkedIn</a
-			>
+			<a href="https://github.com/vincentachy" target="_blank" rel="noopener noreferrer">
+				<span class="iconLink">
+					<img src="/lien.png" alt="Lien Icon" class="icon" />
+				</span>
+				Github
+			</a>
 		</div>
 
 		<div class="contact-item">
-			<a href="/path/to/cv.pdf" target="_blank" rel="noopener noreferrer">Curriculum vitæ</a>
+			<a href="https://linkedin.com/in/vincentachy" target="_blank" rel="noopener noreferrer">
+				<span class="iconLink">
+					<img src="/lien.png" alt="Lien Icon" class="icon" />
+				</span>
+				LinkedIn
+			</a>
+		</div>
+
+		<div class="contact-item">
+			<a href="/path/to/cv.pdf" target="_blank" rel="noopener noreferrer">
+				<span class="iconLink">
+					<img src="/lien.png" alt="Lien Icon" class="icon" />
+				</span>
+				Curriculum vitæ
+			</a>
 		</div>
 	</div>
 </section>
