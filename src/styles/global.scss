@@ -16,3 +16,9 @@ body {
 	color: #bbbbbb;
 	font-family: 'Manrope', sans-serif;
 }
+
+/* Custom text selection */
+::selection {
+	color: #0046ae;
+	background: #ffffff;
+}

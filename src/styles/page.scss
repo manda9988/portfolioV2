@@ -1,6 +1,21 @@
 /* src/styles/page.scss */
 
+html,
+body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+}
+
 .container {
+	flex: 1;
+
 	max-width: 800px;
 	width: 90%;
 	margin: 26px auto 0;
@@ -17,10 +32,10 @@
 		}
 	}
 	.bar-one {
-		width: 95%;
 		height: 0.1px;
 		margin: 34px auto;
-		background: #3c8aff7c;
+		background: #1a75ffae;
+		animation: stretch-bar 1.5s cubic-bezier(0.25, 0.46, 0.45, 0.94) forwards;
 	}
 
 	.bar-two {
@@ -33,9 +48,19 @@
 
 .footer {
 	text-align: center;
-	margin: 40px 0;
+	margin: 70px 0;
 	padding: 10px 0;
-	font-size: 0.8rem;
+	font-size: 0.7rem;
 	color: rgb(150, 150, 150);
-	background: rgb(82, 0, 0);
+	background: rgba(35, 35, 35, 0.217);
+}
+
+/* Animation pour .bar-one */
+@keyframes stretch-bar {
+	0% {
+		width: 0;
+	}
+	100% {
+		width: 100%;
+	}
 }
