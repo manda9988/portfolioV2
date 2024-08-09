@@ -1,4 +1,5 @@
 /* src/styles/page.scss */
+
 .container {
 	max-width: 800px;
 	width: 90%;
@@ -6,7 +7,7 @@
 	.title {
 		text-align: center;
 		h1 {
-			font-size: 1.8rem;
+			font-size: 1.9rem;
 			font-weight: 500;
 			color: rgb(212, 212, 212);
 		}
@@ -19,7 +20,7 @@
 		width: 95%;
 		height: 0.1px;
 		margin: 34px auto;
-		background: #386dffb7;
+		background: #3c8aff7c;
 	}
 
 	.bar-two {
@@ -28,4 +29,13 @@
 		margin: 34px auto;
 		background: #515151ab;
 	}
+}
+
+.footer {
+	text-align: center;
+	margin: 40px 0;
+	padding: 10px 0;
+	font-size: 0.8rem;
+	color: rgb(150, 150, 150);
+	background: rgb(82, 0, 0);
 }

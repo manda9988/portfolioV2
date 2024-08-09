@@ -20,7 +20,7 @@
 			>.
 		</p>
 		<p>
-			Mon parcours professionnel m'a apporté des aptitudes essentielles en communication et en
+			Mon parcours professionnel m'a apporté des aptitudes essentielles en communication et pour le
 			travail d'équipe.
 		</p>
 		<p>
