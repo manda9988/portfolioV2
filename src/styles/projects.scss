@@ -31,8 +31,6 @@
 		margin-bottom: 30px;
 
 		.left-column {
-			// background: rgb(75, 0, 0);
-
 			width: 20%;
 			color: rgb(222, 222, 222);
 			.date {
@@ -45,18 +43,39 @@
 			text-align: justify;
 
 			h4 {
-				margin-bottom: 8px;
-				font-size: 1.5rem;
+				margin-bottom: 6px;
+				font-size: 1.45rem;
 				font-weight: 500;
-				color: rgb(235, 235, 235);
+				color: rgb(225, 225, 225);
+
+				a {
+					// background: red;
+					color: inherit;
+					text-decoration: none;
+					display: inline-flex;
+					align-items: center;
+					transition: color 0.3s ease-in-out;
+
+					.iconLink {
+						margin: 0 6px 2px 0;
+
+						.icon {
+							height: 12px;
+						}
+					}
+				}
+
+				a:hover {
+					color: rgb(175, 175, 175);
+				}
 			}
 
 			p {
-				margin-bottom: 4px;
+				margin-bottom: 10px;
 			}
+
 			.description {
 				font-weight: 100;
-				// font-size: 1.1rem;
 			}
 
 			.technos {

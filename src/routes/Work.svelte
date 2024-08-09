@@ -27,7 +27,7 @@
 		</div>
 		<div class="right-column">
 			<h4>Technicien d’Assistance Informatique</h4>
-			<p class="location">Rantigny - Médiathèque C.Claudel</p>
+			<p class="location">Rantigny - Médiathèque Camille Claudel</p>
 			<p class="description">Réseau, Hardware, Communication technique</p>
 		</div>
 	</div>

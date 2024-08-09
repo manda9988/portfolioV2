@@ -1,3 +1,5 @@
+<!-- Projects.svelte -->
+
 <script>
 	import '../styles/projects.scss';
 </script>
@@ -14,8 +16,18 @@
 			<p class="date">2024</p>
 		</div>
 		<div class="right-column">
-			<h4>Blog_</h4>
-			<p class="description">Une application pour la création d'articles généralistes avec options de connexion et gestion des articles.</p>
+			<h4>
+				<a href="https://www.google.com/" class="project-link">
+					<span class="iconLink">
+						<img src="/lien.png" alt="Lien Icon" class="icon" />
+					</span>
+					Blog_
+				</a>
+			</h4>
+			<p class="description">
+				Une application pour la création d'articles généralistes avec options de connexion et
+				gestion des articles.
+			</p>
 			<p class="technos">Svelte, Vite, SCSS, PostgreSQL, Node.js, Express</p>
 		</div>
 	</div>
@@ -24,7 +36,14 @@
 			<p class="date">2023</p>
 		</div>
 		<div class="right-column">
-			<h4>Ams-Architects</h4>
+			<h4>
+				<a href="https://www.google.com/" class="project-link">
+					<span class="iconLink">
+						<img src="/lien.png" alt="Lien Icon" class="icon" />
+					</span>
+					Ams-Architects
+				</a>
+			</h4>
 			<p class="description">Un site présentant les divers travaux d'une agence d'architecture.</p>
 			<p class="technos">Svelte, Vite, SCSS, TypeScript, Node.js, Express</p>
 		</div>
