@@ -13,8 +13,6 @@
 <div class="container">
 	<Title />
 
-	<!-- <div class="bar-one"></div> -->
-
 	<About />
 
 	<div class="bar-two"></div>

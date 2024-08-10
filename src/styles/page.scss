@@ -20,13 +20,6 @@ body {
 	width: 90%;
 	margin: 26px auto 0;
 
-	.bar-one {
-		height: 0.1px;
-		margin: 34px auto;
-		background: #1a76ff8e;
-		animation: stretch-bar 1.5s cubic-bezier(0.25, 0.46, 0.45, 0.94) forwards;
-	}
-
 	.bar-two {
 		width: 85%;
 		height: 0.1px;
@@ -42,14 +35,4 @@ body {
 	font-size: 0.7rem;
 	color: rgb(150, 150, 150);
 	background: rgba(35, 35, 35, 0.217);
-}
-
-/* Animation pour .bar-one */
-@keyframes stretch-bar {
-	0% {
-		width: 0;
-	}
-	100% {
-		width: 100%;
-	}
 }

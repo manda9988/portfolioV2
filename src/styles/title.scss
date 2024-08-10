@@ -2,13 +2,16 @@
 
 .title {
 	text-align: center;
+	text-shadow: 2px 2px 10px rgba(122, 122, 122, 0.749);
+	margin: 8px auto 60px;
 	h1 {
-		font-size: 1.9rem;
+		font-size: 2.8rem;
 		font-weight: 500;
-		color: rgb(212, 212, 212);
+		color: rgb(206, 206, 206);
+		margin-bottom: 5px;
 	}
 	h2 {
-		font-size: 1rem;
-		font-weight: 480;
+		font-size: 0.9rem;
+		font-weight: 600;
 	}
 }
