@@ -1,6 +1,7 @@
 <script>
 	import '../styles/global.scss';
 	import '../styles/page.scss';
+	import Title from './Title.svelte';
 	import About from './About.svelte';
 	import Projects from './Projects.svelte';
 	import Work from './Work.svelte';
@@ -10,12 +11,9 @@
 </script>
 
 <div class="container">
-	<div class="title">
-		<h1>Vincent Achy</h1>
-		<h2>Développeur Front-End | Svelte / React</h2>
-	</div>
+	<Title />
 
-	<div class="bar-one"></div>
+	<!-- <div class="bar-one"></div> -->
 
 	<About />
 
