@@ -31,6 +31,7 @@
 
 		p {
 			margin-bottom: 10px;
+			font-size: 1rem;
 		}
 
 		.highlight {
@@ -39,5 +40,12 @@
 	}
 	@media (max-width: 600px) {
 		width: 95%;
+	}
+	@media (max-width: 400px) {
+		.paragraphe {
+			p {
+				font-size: 0.9rem;
+			}
+		}
 	}
 }
