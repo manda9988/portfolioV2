@@ -60,4 +60,14 @@
 			}
 		}
 	}
+	@media (max-width: 600px) {
+		width: 95%;
+		.course {
+			.right-column {
+				h4 {
+					font-size: 1.25rem;
+				}
+			}
+		}
+	}
 }

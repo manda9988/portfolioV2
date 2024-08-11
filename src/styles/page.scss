@@ -1,21 +1,7 @@
 /* src/styles/page.scss */
 
-html,
-body {
-	height: 100%;
-	margin: 0;
-	padding: 0;
-}
-
-body {
-	display: flex;
-	flex-direction: column;
-	min-height: 100vh;
-}
-
 .container {
 	flex: 1;
-
 	max-width: 700px;
 	width: 90%;
 	margin: 26px auto 0;
@@ -25,6 +11,11 @@ body {
 		height: 0.1px;
 		margin: 34px auto;
 		background: #515151ab;
+	}
+	@media (max-width: 600px) {
+		.bar-two {
+			width: 95%;
+		}
 	}
 }
 
