@@ -18,7 +18,7 @@
 		</div>
 
 		<div class="contact-item">
-			<a href="https://github.com/vincentachy" target="_blank" rel="noopener noreferrer">
+			<a href="https://github.com/manda9988" target="_blank" rel="noopener noreferrer">
 				<span class="iconLink">
 					<img src="/lien.png" alt="Lien Icon" class="icon" />
 				</span>
@@ -27,7 +27,11 @@
 		</div>
 
 		<div class="contact-item">
-			<a href="https://linkedin.com/in/vincentachy" target="_blank" rel="noopener noreferrer">
+			<a
+				href="https://www.linkedin.com/in/vincent-achy-1704421a9/"
+				target="_blank"
+				rel="noopener noreferrer"
+			>
 				<span class="iconLink">
 					<img src="/lien.png" alt="Lien Icon" class="icon" />
 				</span>

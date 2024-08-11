@@ -17,7 +17,12 @@
 		</div>
 		<div class="right-column">
 			<h4>
-				<a href="https://www.google.com/" class="project-link">
+				<a
+					href="https://gblog-bice.vercel.app/"
+					target="_blank"
+					rel="noopener noreferrer"
+					class="project-link"
+				>
 					<span class="iconLink">
 						<img src="/lien.png" alt="Lien Icon" class="icon" />
 					</span>
@@ -37,7 +42,12 @@
 		</div>
 		<div class="right-column">
 			<h4>
-				<a href="https://www.google.com/" class="project-link">
+				<a
+					href="https://ams-architects.vercel.app/"
+					target="_blank"
+					rel="noopener noreferrer"
+					class="project-link"
+				>
 					<span class="iconLink">
 						<img src="/lien.png" alt="Lien Icon" class="icon" />
 					</span>
