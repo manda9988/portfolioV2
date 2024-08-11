@@ -40,7 +40,7 @@
 		</div>
 
 		<div class="contact-item">
-			<a href="/path/to/cv.pdf" target="_blank" rel="noopener noreferrer">
+			<a href="/cv_frontend_vincent_achy.pdf" target="_blank" rel="noopener noreferrer">
 				<span class="iconLink">
 					<img src="/lien.png" alt="Lien Icon" class="icon" />
 				</span>
