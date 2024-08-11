@@ -31,9 +31,17 @@
 			color: rgb(189, 189, 189);
 			font-size: 1rem;
 			font-weight: 200;
+			text-align: justify;
 		}
 	}
 	@media (max-width: 600px) {
 		width: 95%;
+	}
+	@media (max-width: 425px) {
+		.skill-category {
+			.skills-list {
+				font-size: 0.85rem;
+			}
+		}
 	}
 }
