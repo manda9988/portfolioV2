@@ -11,7 +11,7 @@
 	</h3>
 	<div class="paragraphe">
 		<p>
-			Formé à l'école O'Clock et par mes expériences autodidactes et professionnelles, je me
+			Formé à l'école O'Cloc et par mes expériences autodidactes et professionnelles, je me
 			consacre au développement web depuis trois ans.
 		</p>
 		<p>
