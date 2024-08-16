@@ -14,21 +14,19 @@
 html,
 body {
 	height: 100%;
-	margin: 0;
-	padding: 0;
 }
 
 body {
 	display: flex;
 	flex-direction: column;
 	min-height: 100vh;
-	background: #060606;
+	background: #101010;
 	color: #bbbbbb;
 	font-family: 'Manrope', sans-serif;
 }
 
 /* Custom text selection */
 ::selection {
-	color: #0046ae;
-	background: #ffffff;
+	color: #303030;
+	background: #e9e9e9;
 }
