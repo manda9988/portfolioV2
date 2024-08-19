@@ -11,21 +11,17 @@
 	</h3>
 	<div class="paragraphe">
 		<p>
-			Formé à l'école O'Cloc et par mes expériences autodidactes et professionnelles, je me
-			consacre au développement web depuis trois ans.
+			Développeur web passionné avec quatre ans d'expérience, je me suis formé à l'école O'Clock et
+			j'ai perfectionné mes compétences à travers divers projets personnels.
 		</p>
 		<p>
-			J'ai acquis de solides compétences en pratiquant diverses technologies telles que :
-			<span class="highlight">JavaScript, Svelte, React, SCSS, Node.js, Express et PostgreSQL</span
-			>.
+			Ma maîtrise des technologies comme
+			<span class="highlight">JavaScript, Svelte, React, SCSS, Node.js, Express et PostgreSQL</span>
+			me permet de concevoir des solutions web performantes et adaptées aux besoins des utilisateurs.
 		</p>
 		<p>
-			Mon parcours professionnel m'a apporté des aptitudes essentielles en communication et pour le
-			travail d'équipe.
-		</p>
-		<p>
-			Motivé par l'innovation, je suis prêt à m'engager dans des projets constructifs en apportant
-			ma capacité d'adaptation et mon savoir-faire.
+			Toujours en quête de nouveaux défis, je suis motivé par l'envie de contribuer à des projets
+			innovants au sein d'une équipe dynamique.
 		</p>
 	</div>
 </section>
