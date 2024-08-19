@@ -1,3 +1,5 @@
+<!-- page.svelte -->
+
 <script>
 	import '../styles/global.scss';
 	import '../styles/page.scss';
@@ -8,6 +10,7 @@
 	import Education from './Education.svelte';
 	import Skills from './Skills.svelte';
 	import Contact from './Contact.svelte';
+	import Footer from './Footer.svelte';
 </script>
 
 <div class="container">
@@ -36,6 +39,4 @@
 	<Contact />
 </div>
 
-<footer class="footer">
-	<p>&copy; 2024 Vincent Achy. Tous droits réservés.</p>
-</footer>
+<Footer />

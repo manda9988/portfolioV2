@@ -1,4 +1,4 @@
-<!-- Title -->
+<!-- Title.svelte -->
 
 <script>
 	import '../styles/title.scss';
