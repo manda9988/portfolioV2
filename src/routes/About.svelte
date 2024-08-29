@@ -11,8 +11,8 @@
 	</h3>
 	<div class="paragraphe">
 		<p>
-			Développeur web passionné avec quatre ans d'expérience, je me suis formé à l'école O'Clock et
-			j'ai perfectionné mes compétences à travers divers projets personnels.
+			Développeur Front-End avec quatre ans d'expérience, formé à l'école O'Clock et ayant
+			perfectionné mes compétences à travers divers projets personnels.
 		</p>
 		<p>
 			Ma maîtrise des technologies comme
@@ -20,8 +20,8 @@
 			me permet de concevoir des solutions web performantes et adaptées aux besoins des utilisateurs.
 		</p>
 		<p>
-			Toujours en quête de nouveaux défis, je suis motivé par l'envie de contribuer à des projets
-			innovants au sein d'une équipe dynamique.
+			Motivé par les nouveaux défis, je souhaite mettre mes compétences au service de projets web
+			innovants et participer pleinement à leur développement.
 		</p>
 	</div>
 </section>
