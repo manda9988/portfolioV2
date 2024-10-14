@@ -2,31 +2,27 @@
 
 .title {
 	text-align: center;
-	margin: 8px auto 75px;
-	word-spacing: 0.02em;
+	margin: 8px auto 85px;
+	word-spacing: -0.1px;
 
 	h1 {
-		font-size: 2.8rem;
-		font-weight: 650;
-		color: rgb(217, 217, 217);
+		font-size: 2.5rem;
+		font-weight: 600;
+		color: rgb(212, 212, 212);
+		margin-bottom: 8px;
+		letter-spacing: -0.6px;
 	}
 	h2 {
-		font-size: 1rem;
-		font-weight: 600;
+		font-size: 0.84rem;
+		font-weight: 650;
+		color: rgb(194, 194, 194);
 	}
-	@media (max-width: 600px) {
+
+	@media (max-width: 550px) {
 		margin: 8px auto 55px;
 
 		h1 {
-			font-size: 2.5rem;
-		}
-		h2 {
-			font-size: 0.85rem;
-		}
-	}
-	@media (max-width: 425px) {
-		h1 {
-			font-size: 2.25rem;
+			font-size: 2.35rem;
 		}
 		h2 {
 			font-size: 0.8rem;

@@ -6,5 +6,5 @@
 
 <div class="title">
 	<h1>Vincent Achy</h1>
-	<h2>Développeur Front-End | Svelte / React</h2>
+	<h2>Développeur Front-End | Svelte - React</h2>
 </div>
