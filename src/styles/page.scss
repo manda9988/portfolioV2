@@ -11,6 +11,16 @@
 		height: 1px;
 		margin: 34px auto;
 		background: #5151517f;
+		// animation: fadeInBar 2.4s ease-in-out forwards;
+
+		@keyframes fadeInBar {
+			0% {
+				opacity: 0;
+			}
+			100% {
+				opacity: 1;
+			}
+		}
 	}
 	@media (max-width: 600px) {
 		.bar-two {

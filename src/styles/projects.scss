@@ -10,7 +10,7 @@
 		display: flex;
 		align-items: center;
 		color: rgb(233, 233, 233);
-		animation: fadeInH3PR 2s ease-in-out forwards;
+		// animation: fadeInH3PR 2s ease-in-out forwards;
 
 		@keyframes fadeInH3PR {
 			0% {
@@ -39,7 +39,7 @@
 	.project {
 		display: flex;
 		margin-bottom: 30px;
-		animation: fadeInProjects 2.4s ease-in-out forwards;
+		// animation: fadeInProjects 2.4s ease-in-out forwards;
 
 		@keyframes fadeInProjects {
 			0% {
