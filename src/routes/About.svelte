@@ -1,3 +1,5 @@
+<!-- About.svelte -->
+
 <script>
 	import '../styles/about.scss';
 </script>

@@ -1,31 +1,31 @@
 // title.scss
 
 .title {
-	text-align: center;
-	margin: 8px auto 85px;
-	word-spacing: -0.1px;
+	margin: 8px auto 65px;
+	width: 85%;
+	max-width: 650px;
 
 	h1 {
-		font-size: 2.5rem;
-		font-weight: 600;
-		color: rgb(212, 212, 212);
-		margin-bottom: 8px;
-		letter-spacing: -0.6px;
+		font-size: 2.4rem;
+		font-weight: 550;
+		color: rgb(197, 197, 197);
+		margin-bottom: 2px;
+		letter-spacing: -1px;
 	}
 	h2 {
-		font-size: 0.84rem;
-		font-weight: 650;
-		color: rgb(194, 194, 194);
+		font-size: 1rem;
+		font-weight: 200;
 	}
 
-	@media (max-width: 550px) {
+	@media (max-width: 600px) {
+		width: 95%;
 		margin: 8px auto 55px;
 
 		h1 {
-			font-size: 2.35rem;
+			font-size: 2.3rem;
 		}
 		h2 {
-			font-size: 0.8rem;
+			font-size: 0.85rem;
 		}
 	}
 }
