@@ -11,6 +11,32 @@
 		</span>
 		<span class="text">Projects</span>
 	</h3>
+
+	<div class="project">
+		<div class="left-column">
+			<p class="date">2024</p>
+		</div>
+		<div class="right-column">
+			<h4>
+				<a
+					href="https://findmovies-rho.vercel.app/"
+					target="_blank"
+					rel="noopener noreferrer"
+					class="project-link"
+				>
+					<span class="iconLink">
+						<img src="/lien.png" alt="Lien Icon" class="icon" />
+					</span>
+					FindMovies
+				</a>
+			</h4>
+			<p class="description">
+				Une application pour découvrir des films populaires avec filtres par genre et année et un
+				système de pagination dynamique.
+			</p>
+			<p class="technos">React, Next.js, Chakra UI, TypeScript, TMDb API</p>
+		</div>
+	</div>
 	<div class="project">
 		<div class="left-column">
 			<p class="date">2024</p>

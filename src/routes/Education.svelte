@@ -29,6 +29,15 @@
 			<p class="location">Paris - freeCodeCamp</p>
 		</div>
 	</div>
+	<div class="course">
+		<div class="left-column">
+			<p class="date">2023</p>
+		</div>
+		<div class="right-column">
+			<h4>Formation Développeur Web et Web Mobile</h4>
+			<p class="location">Paris - O'Clock</p>
+		</div>
+	</div>
 
 	<div class="course">
 		<div class="left-column">

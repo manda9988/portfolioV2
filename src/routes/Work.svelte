@@ -18,7 +18,7 @@
 		<div class="right-column">
 			<h4>Stage Développeur Web React / Svelte</h4>
 			<p class="location">Paris - Tremplin Numérique</p>
-			<p class="description">SCSS, Svelte, React, JavaScript</p>
+			<p class="description">Svelte, React, JavaScript, SCSS</p>
 		</div>
 	</div>
 	<div class="job">
