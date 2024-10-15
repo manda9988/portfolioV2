@@ -34,7 +34,7 @@
 				Une application pour découvrir des films populaires avec filtres par genre et année et un
 				système de pagination dynamique.
 			</p>
-			<p class="technos">React, Next.js, Chakra UI, TypeScript, TMDb API</p>
+			<p class="technos">React, Next.js, Chakra UI, TypeScript, TMDb API, Tailwind CSS</p>
 		</div>
 	</div>
 	<div class="project">
