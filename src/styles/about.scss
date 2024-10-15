@@ -10,16 +10,14 @@
 		display: flex;
 		align-items: center;
 		color: rgb(222, 222, 222);
-		animation: fadeInH3 1.8s ease-in-out forwards;
+		animation: fadeInH3 2s ease-in-out forwards;
 
 		@keyframes fadeInH3 {
 			0% {
 				opacity: 0;
-				transform: translateY(-10px);
 			}
 			100% {
 				opacity: 1;
-				transform: translateY(0);
 			}
 		}
 
@@ -40,16 +38,14 @@
 
 	.paragraphe {
 		font-weight: 300;
-		animation: fadeInParagraphe 1.6s ease-in-out forwards;
+		animation: fadeInParagraphe 2.4s ease-in-out forwards;
 
 		@keyframes fadeInParagraphe {
 			0% {
 				opacity: 0;
-				transform: translateX(-40px);
 			}
 			100% {
 				opacity: 1;
-				transform: translateX(0);
 			}
 		}
 
