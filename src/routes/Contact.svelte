@@ -44,7 +44,7 @@
 				<span class="iconLink">
 					<img src="/lien.png" alt="Lien Icon" class="icon" />
 				</span>
-				Curriculum vitæ
+				CV
 			</a>
 		</div>
 	</div>
