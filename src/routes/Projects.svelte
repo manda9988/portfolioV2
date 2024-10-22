@@ -44,7 +44,7 @@
 		<div class="right-column">
 			<h4>
 				<a
-					href="https://gblog-bice.vercel.app/"
+					href="https://blog-vincent-achy.vercel.app/"
 					target="_blank"
 					rel="noopener noreferrer"
 					class="project-link"
@@ -52,14 +52,13 @@
 					<span class="iconLink">
 						<img src="/lien.png" alt="Lien Icon" class="icon" />
 					</span>
-					Blog_
+					Blog.
 				</a>
 			</h4>
 			<p class="description">
-				Une application pour la création d'articles généralistes avec options de connexion et
-				gestion des articles.
+				Un blog construit avec Astro, Tailwind CSS, React et Tailwind Bootstrap Grid.
 			</p>
-			<p class="technos">Svelte, Vite, SCSS, PostgreSQL, Node.js, Express</p>
+			<p class="technos">Astro, Tailwind CSS, React et Tailwind Bootstrap Grid.</p>
 		</div>
 	</div>
 	<div class="project">
